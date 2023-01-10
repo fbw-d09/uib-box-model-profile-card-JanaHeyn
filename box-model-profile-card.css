@@ -8,6 +8,7 @@ body
     width: 300px;
     margin: 0 auto;
     border: 4px solid white;
+    position: relative;
 }
 
 .card img
@@ -21,8 +22,8 @@ body
 #solution1
 {
     position: absolute;
-    top: 30px;
-    right: 100px;
+    top: 20px;
+    right: -30px;
 }
 
 .solution1-text
